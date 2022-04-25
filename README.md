@@ -28,8 +28,6 @@ The Histogram of gray scale image and color image is shown.
 
 ## Program:
 ```python
-# Developed By:
-# Register Number:
 # Developed By:SHAIK KHADAR BASHA
 # Register Number: 212220230045
 
